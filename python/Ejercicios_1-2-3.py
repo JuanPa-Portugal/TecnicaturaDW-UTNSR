@@ -2,7 +2,7 @@
      ---- Martin Verstraeten // Grupo Codestyle - UTN SRb 2022 ----
 Ejercicio 1:
 - Iterar un rango de 3 a 10 e imprimir numeros divisibles entre 3
-(Ejemplp de ejecucion: 0,3,6,9
+(Ejemplo de ejecucion: 0,3,6,9
 '''
 print('-- Ejercicio 1 --')
 print('--- Iterar un rango de 3 a 10 e imprimir numeros divisibles entre 3. (0,3,6,9) ---')
@@ -14,7 +14,7 @@ for i in range(11):
 '''
 Ejercicio 2:
 - Crear un rango de numeros de 2 a 6 e imprimirlos.
-(Ejemplp de ejecucion: 2,3,4,5,6
+(Ejemplo de ejecucion: 2,3,4,5,6
 '''
 print('')
 print('-- Ejercicio 2 --')
